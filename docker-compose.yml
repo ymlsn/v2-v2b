@@ -9,5 +9,3 @@ services:
       - "443:443"
     volumes:
       - ./config.json:/etc/v2ray/config.json
-      - ./v2ray.crt:/home/v2ray.crt
-      - ./v2ray.key:/home/v2ray.key
