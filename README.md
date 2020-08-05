@@ -13,7 +13,7 @@ chmod a+x /usr/local/bin/docker-compose
 ```
 git clone https://github.com/ymlsn/v2-v2b.git
 
-cd v2ray-docker
+cd v2-v2b
 
 # 配置
 修改 config.json 中的 poseidon 下面的 nodeId, webapi, 和 token
