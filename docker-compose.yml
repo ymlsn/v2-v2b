@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  v2ray-ws-tls:
+    image: v2cc/poseidon
+    container_name: v2ray-docker
+    restart: always
+    ports:
+      - "443:443"
+    volumes:
+      - ./config.json:/etc/v2ray/config.json
+      - ./v2ray.crt:/home/v2ray.crt
+      - ./v2ray.key:/home/v2ray.key

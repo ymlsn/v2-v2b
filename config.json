@@ -1,0 +1,15 @@
+{
+  "poseidon": {
+    "panel": "v2board",
+    "nodeId": 1,
+    "checkRate": 60,
+    "webapi": "https://YOUR V2BOARD DOMAIN",
+    "token": "v2board token",
+    "speedLimit": 0,
+    "user": {
+      "maxOnlineIPCount": 0,
+      "speedLimit": 0
+    },
+    "localPort": 10084
+  }
+}
