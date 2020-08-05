@@ -11,7 +11,7 @@ chmod a+x /usr/local/bin/docker-compose
 
 ### Clone docker 和配置文件
 ```
-git clone https://github.com/online2311/v2-v2b.git
+git clone https://github.com/ymlsn/v2-v2b.git
 
 cd v2ray-docker
 
