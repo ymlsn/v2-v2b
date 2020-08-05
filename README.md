@@ -10,6 +10,7 @@ chmod a+x /usr/local/bin/docker-compose
 ```
 
 ###安装 git
+
 yum -y install git
 
 ### Clone docker 和配置文件
