@@ -9,6 +9,9 @@ curl -L "https://github.com/docker/compose/releases/download/1.25.3/docker-compo
 chmod a+x /usr/local/bin/docker-compose
 ```
 
+###安装 git
+yum -y install git
+
 ### Clone docker 和配置文件
 ```
 git clone https://github.com/ymlsn/v2-v2b.git
